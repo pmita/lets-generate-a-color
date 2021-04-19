@@ -6,7 +6,6 @@
 
     Remember to always apply clean code principles in every project you are making! Here are
     some basic rules to have at the back of your mind:
-
     #Leave commects whenever your code is doing something complicated
     #Try giving your variables usefull names. Best if their name describes what they correspond to
     #Re-factor your code once you get something done. Chances are you can make better
